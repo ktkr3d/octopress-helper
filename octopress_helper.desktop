@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Octopress Helper
+Exec=octopress_helper.sh
+Icon=octopress_helper.png
+Terminal=true
+Type=Application
+Categories=Application;
+StartupNotify=false
